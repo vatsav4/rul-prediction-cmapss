@@ -1,0 +1,4 @@
+Model,RMSE,PHM_Score
+XGBoost,12.82,261.45
+LSTM,13.48,294.70
+Random Forest,16.24,631.25
