@@ -1,0 +1,22 @@
+# dataset — not redistributed here (see data/README.md)
+data/cmapss/
+
+# generated artefacts
+artifacts/
+processed/
+models/
+*.npz
+*.keras
+*.h5
+*.joblib
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# os
+.DS_Store
+Thumbs.db
